@@ -83,7 +83,7 @@
      * RxJava
      * Coroutines
      * Kotlin Flow API
-* Coroutines - You can learn these topics here: [Master Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
+* Coroutines 
   * coroutines
   * suspend
   * launch, async-await, withContext
