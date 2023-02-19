@@ -1,9 +1,3 @@
-# Android-Developerr-Roadmap
-
-<p align="center">
-<img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/amitshekhariitbhu/android-developer-roadmap/master/assets/android-developer-roadmap.png">
-</p>
-
 # Android Developer Roadmap
 
 ## Roadmap to learn Android App Development
@@ -98,13 +92,12 @@
   * lifecycleScope, viewModelScope, GlobalScope
   * suspendCoroutine, suspendCancellableCoroutine
   * coroutineScope, supervisorScope
-* Kotlin Flow API - You can learn these topics here: [Kotlin Flow API](https://amitshekhar.me/blog/flow-api-in-kotlin)
+* Kotlin Flow API - You can learn these topics here: 
   * Flow Builder, Operator, Collector
   * flowOn, dispatchers
   * Operators such as filter, map, zip, flatMapConcat, retry, debounce, distinctUntilChanged, flatMapLatest
   * Terminal operators
-  * Cold Flow vs Hot Flow: [Cold Flow vs Hot Flow](https://amitshekhar.me/blog/cold-flow-vs-hot-flow)
-  * [StateFlow, SharedFlow](https://amitshekhar.me/blog/stateflow-and-sharedflow), callbackFlow, channelFlow
+  * Cold Flow vs Hot Flow: 
 * Data Format
   * JSON
      * GSON
@@ -186,28 +179,3 @@
      * App Bundle
      * Playstore
 * Keep Learning and Improving
-
-## **Get Mentorship: [amitshekhar.me](https://amitshekhar.me)**
-
-### Found this project useful :heart:
-* Support by clicking the :star: button on the upper right of this page. :v:
-
-### License
-```
-   Copyright (C) 2022 Amit Shekhar
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
-
-### Contributing to Android Developer Roadmap
-Just make a pull request. You are in!
